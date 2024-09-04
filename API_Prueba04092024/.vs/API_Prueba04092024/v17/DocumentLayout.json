@@ -54,8 +54,7 @@
               "RelativeToolTip": "Services\\PublicacionesServices\\PublicacionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:45:07.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:45:07.807Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAG4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:09:44.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:09:44.165Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T19:09:27.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:09:27.399Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAA1wCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:09:21.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:09:21.12Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Repositories\\PublicacionRespositories\\IPublicacionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:35:53.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:35:53.503Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Repositories\\PublicacionRespositories\\PublicacionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:35:51.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:35:51.294Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Models\\Entities.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA4wA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:21:41.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:21:41.967Z"
             }
           ]
         }
