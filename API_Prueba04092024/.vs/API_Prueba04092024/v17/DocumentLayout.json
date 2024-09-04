@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\controllers\\publicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:controllers\\publicacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\services\\publicacionesservices\\publicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:services\\publicacionesservices\\publicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\repositories\\publicacionrespositories\\publicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:repositories\\publicacionrespositories\\publicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\repositories\\publicacionrespositories\\ipublicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:repositories\\publicacionrespositories\\ipublicacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:models\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|c:\\users\\evera\\desktop\\pruebas\\prueba04092024\\api_prueba04092024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09B55A46-41B5-4963-92BD-0CCF7159B2C4}|API_Prueba04092024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicacionService.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Services\\PublicacionesServices\\PublicacionService.cs",
+              "RelativeDocumentMoniker": "Services\\PublicacionesServices\\PublicacionService.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Services\\PublicacionesServices\\PublicacionService.cs",
+              "RelativeToolTip": "Services\\PublicacionesServices\\PublicacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:45:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicacionController.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Controllers\\PublicacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicacionController.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Controllers\\PublicacionController.cs",
+              "RelativeToolTip": "Controllers\\PublicacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:44.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:09:44.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T19:09:27.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA1wCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:09:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPublicacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Repositories\\PublicacionRespositories\\IPublicacionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PublicacionRespositories\\IPublicacionRepository.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Repositories\\PublicacionRespositories\\IPublicacionRepository.cs",
+              "RelativeToolTip": "Repositories\\PublicacionRespositories\\IPublicacionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicacionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Repositories\\PublicacionRespositories\\PublicacionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PublicacionRespositories\\PublicacionRepository.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Repositories\\PublicacionRespositories\\PublicacionRepository.cs",
+              "RelativeToolTip": "Repositories\\PublicacionRespositories\\PublicacionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:35:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Models\\Entities.cs",
+              "RelativeDocumentMoniker": "Models\\Entities.cs",
+              "ToolTip": "C:\\Users\\evera\\Desktop\\Pruebas\\Prueba04092024\\API_Prueba04092024\\Models\\Entities.cs",
+              "RelativeToolTip": "Models\\Entities.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA4wA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:21:41.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
